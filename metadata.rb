@@ -22,4 +22,4 @@ depends 'golang'
 depends 'compat_resource'
 
 # this should really be a suggests
-depends 'bluepill', '~> 2.3'
+depends 'bluepill'
